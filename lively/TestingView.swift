@@ -10,8 +10,8 @@ import SwiftUI
 struct TestingView: View {
     var body: some View {
         TabView {
-            ViewA()
-                .tabItem("phone.fill")
+            //ViewA()
+                //.tabItem("phone.fill")
         }
     }
 }
